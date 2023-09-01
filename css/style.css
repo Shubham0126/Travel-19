@@ -3523,3 +3523,8 @@ RESPONSIVE STYLESHEET
 .what-other-say .owl-nav button.owl-next:hover {
 	background: #12a84e;
 }
+.page-header {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
